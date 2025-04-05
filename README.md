@@ -1,6 +1,6 @@
 # jpa02-stevenliu2002
 
-Repo: https://ucsb-cs156-s25/jpa02-stevenliu2002
+Repo: https://github.com/ucsb-cs156-s25/jpa02-stevenliu2002
 
 Deployed at: https://jpa02-stevenliu2002.dokku-07.cs.ucsb.edu/
 
